@@ -1,1 +1,18 @@
 /* All styles for your header Components live here */
+
+
+
+.hContainer {
+    display: flex;
+    width: 95%;
+    
+}
+
+.hInnerContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.contentClass {
+    /* background-color: red; */
+}

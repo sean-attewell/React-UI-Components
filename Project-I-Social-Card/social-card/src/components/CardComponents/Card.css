@@ -1,1 +1,16 @@
 /* All styles for your Card Components live here */
+
+.cardWrapper {
+    display: flex;
+    flex-direction: column;
+    padding-left: 7%;
+}
+
+.cardBanner {
+    width: 95%;
+} 
+
+.CardContent {
+    width: 95%;
+    border: 1px solid grey;
+}
